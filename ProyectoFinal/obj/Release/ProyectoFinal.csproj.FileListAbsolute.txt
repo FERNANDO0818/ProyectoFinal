@@ -1,0 +1,16 @@
+C:\Users\50254\source\repos\ProyectoFinal\ProyectoFinal\bin\Release\ProyectoFinal.exe.config
+C:\Users\50254\source\repos\ProyectoFinal\ProyectoFinal\bin\Release\ProyectoFinal.exe
+C:\Users\50254\source\repos\ProyectoFinal\ProyectoFinal\bin\Release\ProyectoFinal.pdb
+C:\Users\50254\source\repos\ProyectoFinal\ProyectoFinal\obj\Release\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\50254\source\repos\ProyectoFinal\ProyectoFinal\obj\Release\ProyectoFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\50254\source\repos\ProyectoFinal\ProyectoFinal\obj\Release\ProyectoFinal.Menu.resources
+C:\Users\50254\source\repos\ProyectoFinal\ProyectoFinal\obj\Release\ProyectoFinal.Ventana1.resources
+C:\Users\50254\source\repos\ProyectoFinal\ProyectoFinal\obj\Release\ProyectoFinal.Properties.Resources.resources
+C:\Users\50254\source\repos\ProyectoFinal\ProyectoFinal\obj\Release\ProyectoFinal.Ventanadml.resources
+C:\Users\50254\source\repos\ProyectoFinal\ProyectoFinal\obj\Release\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\50254\source\repos\ProyectoFinal\ProyectoFinal\obj\Release\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\50254\source\repos\ProyectoFinal\ProyectoFinal\obj\Release\ProyectoFinal.exe
+C:\Users\50254\source\repos\ProyectoFinal\ProyectoFinal\obj\Release\ProyectoFinal.pdb
+C:\Users\50254\source\repos\ProyectoFinal\ProyectoFinal\obj\Release\ProyectoFinal.Formddl.resources
+C:\Users\50254\source\repos\ProyectoFinal\ProyectoFinal\obj\Release\ProyectoFinal.Ventana_alter.resources
+C:\Users\50254\source\repos\ProyectoFinal\ProyectoFinal\obj\Release\ProyectoFinal.Ventana2.resources

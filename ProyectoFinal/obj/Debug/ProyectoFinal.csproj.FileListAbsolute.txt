@@ -1,0 +1,13 @@
+C:\Users\50254\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\50254\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\50254\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\50254\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\50254\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\50254\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\50254\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\50254\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\50254\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\50254\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\50254\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.ventana1.resources
+C:\Users\50254\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Menu.resources
+C:\Users\50254\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Ventanadml.resources
